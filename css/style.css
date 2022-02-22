@@ -28,3 +28,79 @@ nav{
 	font-weight: bold;
 	margin: 10px 25px 30px 0px;
 }
+.section1{
+	width: 1160px;
+	height: 410px;
+	background-color:#FFFFFF ;
+	position: relative;
+	margin: 80px 140px 40px 140px;
+}
+h2{
+	font-size: 24px;
+	font-style:Helvetica;
+	color: #202124;
+	font-weight:bold;
+}
+.div1{
+	position: absolute;
+	width: 360px;
+	height: 350px;
+	top: 50px;
+	padding-right: 40px;
+	left: 0;
+}
+.div2{
+	position: absolute;
+	width: 360px;
+	height: 350px;
+	top: 50px;
+	padding-right: 40px;
+	left:400px;
+}
+.div3{
+	position: absolute;
+	width: 360px;
+	height: 350px;
+	top: 50px;
+	right:0;
+}
+.img1{
+	width: 360px;
+	height: 180px;
+	border-radius:3%;
+}
+.text1{
+	font-size: 16px;
+	font-style: Helvetica;
+	color: #FFFFFF;
+	font-weight: bold;
+	position: absolute;
+	top: 30px;
+	left: 40px;
+}
+.wrapper{
+	position:relative;
+}
+.lorem{
+	width: 360px;
+	height: 180px;
+	background-color: #FFFFFF;
+}
+.tex2{
+	position: absolute;
+	width: 280px;
+	height: 38px;
+	font-size: 15px;
+	font-style: Acumin Pro;
+	color: #A6ADB4;
+	margin: 63px 71px 20px 40px;
+}
+.clock{
+	position: absolute;
+	width: 69px;
+	height: 16px;
+	color:#A6ADB4;
+	font-size: 15px;
+	font-style:Helvetica;
+	margin: 133px 224px 40px 40px;
+}
